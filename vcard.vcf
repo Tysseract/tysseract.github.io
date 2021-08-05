@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Tys vanZeyl
+N;CHARSET=UTF-8:vanZeyl;Tys;;;
+GENDER:M
+BDAY:20010309
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:tys@tysseract.net
+TEL;TYPE=CELL:+18057087965
+ADR;CHARSET=UTF-8;TYPE=HOME:;;1775 Cravens Lane;Carpinteria;California;93013;United States
+URL;CHARSET=UTF-8:tysseract.net
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=twitter:https://twitter.com/Tysseract/
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=linkedin:https://www.linkedin.com/in/tysseract/
+X-SOCIALPROFILE;CHARSET=UTF-8;TYPE=instagram:https://www.instagram.com/tysseract/
+REV:2021-08-05T21:36:00.960Z
+END:VCARD
